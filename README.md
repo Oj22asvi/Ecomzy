@@ -20,8 +20,7 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### Some Screenshorts
-![Screenshot of the home page.](C:\Users\Madhav\Pictures\Screenshots\Screenshot (1102).png)
-![Screenshot of the home page.](C:\Users\Madhav\Pictures\Screenshots\Screenshot (1104).png)
-
+![Screenshot (1102)](https://github.com/Oj22asvi/Ecomzy/assets/141521943/538042f1-4375-4df7-9fa3-65a37c8fdc92)
+![Screenshot (1104)](https://github.com/Oj22asvi/Ecomzy/assets/141521943/9b874464-db7b-4386-b193-98e47f687ce0)
 
 
